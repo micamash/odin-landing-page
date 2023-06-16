@@ -15,13 +15,13 @@ header {
 header .header-logo {
     color: #F9FAF8;
     font-size:24px;
-    margin-left: 150px;
+    margin-left: 250px;
 }
 
 header ul {
     display: flex;
     list-style-type: none;
-    margin-right: 50px;
+    margin-right: 250px;
 }
 
 header ul li {
@@ -37,36 +37,55 @@ header ul li a {
 .first {
     display: flex;
     background-color: #1F2937;
+    align-items: center;
+    justify-content: space-around;
+    padding: 100px;
 }
 
 .about {
     display: flex;
     flex-direction: column;
-    align-items: center;
+    align-items: left;
     justify-content: center;
+    width: 500px;
+    height: 180px;
 }
 
 .about h1 {
     color: #F9FAF8;
     font-size: 48px;
     font-weight: 800;
+    margin-bottom: 0;
+    margin-top: 0;
 }
 
 .about p {
     color: #E5E7EB;
     font-size: 18px;
+    margin-top: 1px;
 }
 
 .img-placeholder {
-    background-color: rgb(141, 141, 143);
-    color: #E5E7EB;
+    background-color: rgb(114, 114, 121);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    height: 180px;
+    width: 500px;
+}
+
+.img-placeholder h4 {
+    width: 80%;
+    color: #F9FAF8;
 }
 
 .top-button {
     background-color: #3882F6;
     border: none;
     border-radius: 5px;
-    padding: 3px 15px;
+    padding: 5px 20px;
     color: #F9FAF8;
+    width: 100px;
 }
 
