@@ -17,21 +17,28 @@ This project is my submission for the Landing Page project in the Odin Project C
 
 ### Screenshot
 
-![Project: Landing Page](images/sample-homepage.png)
+![Project: Landing Page](imgs/sample-screenshot.png)
 
 ### Links
 
 - Solution URL: [GitHub Project Page](https://github.com/micamash/odin-landing-page)
-- Live Site URL: [QR Code Component](micamash.github.io/odin-landing-page/)
+- Live Site URL: [QR Code Component](https://micamash.github.io/odin-landing-page/)
 
 ## My process
 
+I built this product based off of the images provided by Odin Project for the finished result.
+
 ### Built with
 
+-HTML
+-CSS
+-Flexbox
+
 ### What I learned
+Continued development of my HTML/CSS skills.
 
 ### Continued development
-
+I plan to continue through The Odin Project to the Javascript lessons.
 
 ## Author
 
